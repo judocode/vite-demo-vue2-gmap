@@ -7,10 +7,12 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "gmap-vue": "^2.0.1",
+    "bootstrap-vue": "^2.21.2",
+    "gmap-vue": "^3.5.2",
     "vite-plugin-vue2": "^1.9.0",
     "vue": "^2.6.14",
-    "vue-template-compiler": "^2.6.14"
+    "vue-template-compiler": "^2.6.14",
+    "vuetify": "^2.6.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.9.3",
